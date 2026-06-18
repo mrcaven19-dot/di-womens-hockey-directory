@@ -613,7 +613,7 @@ const hockeyPrograms = [
             { name: "Chris Line (Assistant Coach)", photo: "https://smcathletics.com" },
             { name: "Leonora Lussier (Assistant Coach)", photo: "https://smcathletics.com" }
         ]
-    },
+    }
 ];
 	
 		
